@@ -18,9 +18,9 @@ _ _ _
 
 ## Tech Stack
 
-> **HTML** - structure of the editor
-> **CSS** - styling and responsive layout
-> **JavaScript** - real-time code rendering
+1. **HTML** - structure of the editor
+2. **CSS** - styling and responsive layout
+3. **JavaScript** - real-time code rendering
 
 _ _ _
 
@@ -46,9 +46,9 @@ _ _ _
 
 ## Future Enhancements
 
-> Auto-save multiple projects in **Local Storage**
-> Enhance **mobile responsiveness** and styling options
-> Implement **download code** feature for HTML, CSS and JS
+1. Auto-save multiple projects in **Local Storage**
+2. Enhance **mobile responsiveness** and styling options
+3. Implement **download code** feature for HTML, CSS and JS
 
 
 [def]: ive-Code-editor-main/livecodeeditor.pn
