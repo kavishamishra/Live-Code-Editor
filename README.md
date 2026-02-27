@@ -24,12 +24,6 @@ _ _ _
 
 _ _ _
 
-## Screenshot
-
-![Live-Code-Editor demo] <img src="Live-Code-Editor-main/livecodeeditor.png">
-
-_ _ _
-
 ## Demo
 
  https://kavishamishra.github.io/Live-Code-Editor/
