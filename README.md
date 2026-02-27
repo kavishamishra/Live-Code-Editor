@@ -9,10 +9,10 @@ _ _ _
 
 ## Features
 
-> Live HTML, CSS, and JavaScript preview
-> Fully responsive and modern UI
-> Clean and easy-to-use interface for learning and experimentation
-> Screenshot included to showcase functionality
+1. Live HTML, CSS, and JavaScript preview
+2. Fully responsive and modern UI
+3. Clean and easy-to-use interface for learning and experimentation
+4. Screenshot included to showcase functionality
 
 _ _ _
 
